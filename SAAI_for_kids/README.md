@@ -7,14 +7,10 @@ This repository contains the link to slides and demo notebooks presented in the 
 🟣 [Click here to see the slides ](url)
 
 ### Link to demo notebooks:
-1. [Style Transfer (Isha)](https://colab.research.google.com/drive/1KkVJptoe6EYfuEtOu6HeqbP0AFJ_ENG1?usp=sharing)
-2. [StyleCAN (Divyansh)](https://colab.research.google.com/drive/1wqgzp2IMOXETQCOQl9-h9qJIEA1-bVLM?usp=sharing)
-3. [MusicCAN (Shyma)](https://colab.research.google.com/drive/1NZzRDQt4QSZscwPHiYG1Im6-C61NR_2c)
-4. [EmoStyleGAN (Arnab)](https://colab.research.google.com/drive/1JhI3vnylEg-f0uPiq1uES0UgmB2Eqkjo?usp=sharing)
-5. [Text2Art (Kilich)](https://colab.research.google.com/drive/1vAuc-PhZFhuS9byyiJHHCPWHkyt1ghj8?usp=sharing)
-6. [Image Animation (Divyansh)](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb#scrollTo=Oxi6-riLOgnm)
-7. [Video Generation (Xiaoqian)](https://colab.research.google.com/github/camenduru/text-to-video-synthesis-colab/blob/main/text_to_video_synthesis_diffusers.ipynb)
-8. [Video Generation (Xiaoqian)](https://colab.research.google.com/github/mayuelala/FollowYourPose/blob/main/quick_demo.ipynb)
-9. [Video Generation Slides (Xiaoqian)](https://docs.google.com/presentation/d/1QtT2YOzUPP81GxKHIoTKnk9WJRVVMUaUMRoK9BQAKW4/edit?usp=sharing)
+1. [Text to Image](https://colab.research.google.com/drive/1vAuc-PhZFhuS9byyiJHHCPWHkyt1ghj8?usp=sharing)
+2. [Text to VR]()
+3. [Text to Audio]()
+4. [Text to Video]()
+5. [Audio to Text]()
 
 
