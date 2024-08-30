@@ -17,7 +17,4 @@ This repository contains the link to slides and demo notebooks presented in the 
 8. [Video Generation (Xiaoqian)](https://colab.research.google.com/github/mayuelala/FollowYourPose/blob/main/quick_demo.ipynb)
 9. [Video Generation Slides (Xiaoqian)](https://docs.google.com/presentation/d/1QtT2YOzUPP81GxKHIoTKnk9WJRVVMUaUMRoK9BQAKW4/edit?usp=sharing)
 
-### Text-to-Image generation tools:
-🟣 DallE-2
-🟣 Midjourney
-🟣 Stable Diffusion
+
