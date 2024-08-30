@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/e401210e-f436-4552-9cd7-cb5b9b513fb0)
 ----------------------
 
-This repository contains the link to slides and demo notebooks presented in the tutorial **" Creative AI for Visual Art and Music "** at the SAAI factory symposium / kick-off.
+This repository contains the link to slides and demo notebooks presented in the tutorial **" Creative AI for Visual Art and Music "** at the SAAI .
 
 ### Link to slides:
 🟣 [Click here to see the slides ](url)
