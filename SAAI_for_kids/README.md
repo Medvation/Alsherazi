@@ -7,7 +7,7 @@ This repository contains the link to slides and demo notebooks presented in the 
 ### Link to slide: [Click here to see the slides](url)
 ### Link to demo notebook: 
 1. [Text to Image - AttnGAN](https://colab.research.google.com/drive/1qy4rPkJ4shztgRIAmMOumUtzQwRaj4Ai?usp=sharing)
-2. [Text to Image - Deep Daze](https://colab.research.google.com/drive/1qy4rPkJ4shztgRIAmMOumUtzQwRaj4Ai?usp=sharing)
+2. [Text to Image - Deep Daze](https://colab.research.google.com/drive/1uHYfjvmdQmUTCdS6J65hLZGrPamPTpbU?usp=sharing)
 3. [Text to Image - Big Sleep](https://colab.research.google.com/drive/1qy4rPkJ4shztgRIAmMOumUtzQwRaj4Ai?usp=sharing)
 
    
