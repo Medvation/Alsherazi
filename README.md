@@ -1,7 +1,7 @@
 ![image](https://github.com/user-attachments/assets/6e538b8c-97c1-4c03-825a-99fbdc956a78)
 
 
-# Welcome to the AL-Sherazi CLUB GitHub repository! 🚀✨
+# Welcome to the AL-Sherazi CLUB GitHub repository! 🚀
 Hello, young creators! 
 This repository is your playground to explore, imagine, and create amazing art with the help of AI!  Each folder here is a special adventure, filled with fun activities.
 
@@ -16,7 +16,7 @@ Embark on an artistic adventure! 🎶 Combine the magic of AI with your love for
 
 ![image](https://github.com/user-attachments/assets/b756a567-eaf3-43d0-882c-a1de3f619afe)
 
-Become an innovator! 🚀 Take on exciting challenges where you’ll use AI to blend science, technology, engineering, art, and math.
+Become an innovator! ✨ Take on exciting challenges where you’ll use AI to blend science, technology, engineering, art, and math.
 
 
 # 📫 Get in Touch!
