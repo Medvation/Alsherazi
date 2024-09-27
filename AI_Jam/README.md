@@ -1,3 +1,10 @@
+
+![aijam](https://github.com/user-attachments/assets/f578a609-a1cc-4ba0-b05e-99c931e5cf84)
+
+----------------------
+This repository contains the notebooks for **"AI-JAM Algorithms "** .
+
+
 ![textToimage](https://github.com/user-attachments/assets/7760b721-aa29-4182-9aa3-6cc61d5ade70)
 | Algorithm | Description | Open in Colab |
 |--------------|-------------|---------------|
