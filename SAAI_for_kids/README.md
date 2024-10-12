@@ -14,10 +14,17 @@ This repository contains the link to slides and demo notebooks presented in the 
 ![image](https://github.com/user-attachments/assets/05bfd061-4e60-4997-8719-222de057404e)
 ### Link to slide: [Click here to see the slides](url)
 ### Link to demo notebooks: 
-1. [Text to Audio]()
+1. [Text to Audio](https://colab.research.google.com/drive/1QgcPZyWibrKNXqASleNxSxN0yKYZcqhd?usp=sharing)
 
 
+## Audio to Text
+### Link to demo notebooks: 
+1. [Audio to Text](https://colab.research.google.com/drive/1b957KCX_SAWqkhQvchtN3LHTxpmL4wOL?usp=sharing)
 
+
+## Text to Video
+### Link to demo notebooks: 
+1. [Text to Video](https://colab.research.google.com/drive/1JoXFCS1IcBOx3jglYV9Dh4i82YKkSIbi?usp=sharing)
 
 
 
