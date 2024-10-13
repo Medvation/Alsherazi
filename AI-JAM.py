@@ -8,7 +8,6 @@ import gc
 
 st.set_page_config(layout="wide", page_title="AI-JAM by Alsherazi", page_icon="🎨")
 
-# Custom CSS for the updated look
 st.markdown("""
     <style>
     .main {
