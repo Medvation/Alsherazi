@@ -18,7 +18,7 @@ This repository contains the notebooks for **"AI-JAM Algorithms "** .
 ![TextTovideo](https://github.com/user-attachments/assets/4402ed27-3d5a-4847-918d-8e863a06ff4a)
 | Algorithm | Description | Open in Colab |
 |--------------|-------------|---------------|
-| AI-Flavorythm    | notebook for AI-Flavorythm | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]() |
+| AI-Flavorythm    | notebook for AI-Flavorythm | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_9jjBZy08Akd7ZgmRJ5cT8q2xR2Mxm-C?usp=sharing) |
 
 
 
