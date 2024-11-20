@@ -1,5 +1,6 @@
 
 ![aijam](https://github.com/user-attachments/assets/f578a609-a1cc-4ba0-b05e-99c931e5cf84)
+![image](https://github.com/user-attachments/assets/6e538b8c-97c1-4c03-825a-99fbdc956a78)
 
 ----------------------
 This repository contains the notebooks for **"AI-JAM Algorithms "** .
