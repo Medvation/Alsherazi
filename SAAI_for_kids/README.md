@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e401210e-f436-4552-9cd7-cb5b9b513fb0)
+![SAAI_github](https://github.com/user-attachments/assets/7973b56b-221e-4d2f-913c-36b113fe3e5e)
 ----------------------
 
 
@@ -6,6 +6,7 @@
 This repository contains the link to slides and demo notebooks presented in the tutorial **" Creative AI for Visual Art and Music "** at the SAAI .
 
 ![image](https://github.com/user-attachments/assets/6e538b8c-97c1-4c03-825a-99fbdc956a78)
+![image](https://github.com/user-attachments/assets/e401210e-f436-4552-9cd7-cb5b9b513fb0)
 
 ----------------------
 This repository contains the notebooks for **"AI-JAM Algorithms "** .
