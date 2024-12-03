@@ -15,7 +15,7 @@ This repository contains the notebooks for **"AI-JAM Algorithms "** .
 | Algorithm | Description | Open in Colab |
 |--------------|-------------|---------------|
 | AI-Chef   | notebook for AI-Chef | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fMCtGGL7qlx27U9GoRWCT7-jOMW0nKum?usp=sharing) |
-| Code-Persona   | notebook for AI-Chef | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1fMCtGGL7qlx27U9GoRWCT7-jOMW0nKum?usp=sharing](https://colab.research.google.com/drive/1_8H98IQmnkTaj_LiYo1Jb8xl0BJ3_NW8?usp=sharing)) |
+| Code-Persona   | notebook for AI-Chef | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_8H98IQmnkTaj_LiYo1Jb8xl0BJ3_NW8?usp=sharing) |
 
 ![TextTovideo](https://github.com/user-attachments/assets/4402ed27-3d5a-4847-918d-8e863a06ff4a)
 | Algorithm | Description | Open in Colab |
