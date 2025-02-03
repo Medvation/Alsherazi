@@ -89,6 +89,10 @@ This repository contains the notebooks for **"AI-JAM Algorithms "** .
 
 <table>
   <tr>
+    <th>Modality</th>
+    <th>Open in Colab</th>
+  </tr>
+  <tr>
     <td>Text modality</td>
     <td align="center"><a href="https://colab.research.google.com/github/VictorCeballos/KAUST-AI-SS/blob/main/Week%203%20-%20Generative%20Deep%20Learning/Labs/Lab_AutoEncoders.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg"></a></td>
   </tr>
