@@ -84,6 +84,22 @@ This repository contains the notebooks for **"AI-JAM Algorithms "** .
   </tr>
 </table>
 
+
+## Part 2: Generative Deep Learning Across Modalities: Text, Image & Audio
+
+| Modality | Description | Open in Colab |
+|--------------|-------------|---------------|
+| Text   | notebook for Text modality | [![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1rbKZP0LSf85yOzNTSP6U-vmIZzMP7K6k?usp=sharing](https://colab.research.google.com/drive/1EMLBEMzXh7edDtZJ1aLj2nUNHoRMzG-b?usp=sharing)) |
+
+|--------------|-------------|---------------|
+| Image  | notebook for Image modality | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1fMCtGGL7qlx27U9GoRWCT7-jOMW0nKum?usp=sharing](https://colab.research.google.com/drive/1JdXfM_L34WIh5Nm3BI8ho6aEjN6uEv5k?usp=sharing)) |
+
+|--------------|-------------|---------------|
+| Audio    | notebook for Audio modality | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1_9jjBZy08Akd7ZgmRJ5cT8q2xR2Mxm-C?usp=sharing](https://colab.research.google.com/drive/1lTHXZ8ZTINNg1X6x5A7qoHRK2U2is4wv?usp=sharing)) |
+
+
+
+
 ## Part 3: Generative Deep Learning in Art
 
 
